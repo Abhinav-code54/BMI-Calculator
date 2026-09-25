@@ -28,9 +28,9 @@ Jupyter Notebook (for testing/demo)
 Git & GitHub (version control)
 
 ->Project Structure
-├──> main.py           # Main menu and program flow
+├──> main.py           #Main menu and program flow
 ├──>bmi.py            # BMI calculation and input validation
-├──> food.py           # Food suggestions
+├──> food.py            #Food suggestions
 ├──> routine.py        # Healthy daily routine guidance
 ├──> information.py    # BMI information and formula explanation
 ├──>Testing.ipynb      # Testing and demonstration of the project
@@ -64,5 +64,8 @@ Each menu option (Food, Routine, Information) returns expected output.
 <img width="1917" height="895" alt="image" src="https://github.com/user-attachments/assets/0ef57c31-73b4-44d2-99af-a14e0a28fea0" />
 4.ERROR Handling
 <img width="1917" height="652" alt="image" src="https://github.com/user-attachments/assets/c8dbc1f7-b79f-4cd8-888b-966a0a0a0ef5" />
+5.Github
+<img width="1270" height="715" alt="Screenshot 2026-09-26 005739" src="https://github.com/user-attachments/assets/4f440244-857f-4393-b72a-1784cd6e5156" />
+
 
 
