@@ -1,11 +1,11 @@
-~Smart BMI & Healthy Routine Assistant
+~ BMI & Healthy Routine Assistant
 A beginner-friendly Python project that calculates Body Mass Index (BMI) and provides general educational guidance on food, healthy daily routines, and BMI awareness — all through a simple menu-driven console program.
 
 -> Overview:
-Smart BMI & Healthy Routine Assistant helps users quickly calculate their BMI and get general, educational tips on nutrition, daily routines, and what BMI actually means. The project is organized into separate Python modules, making the code clean, readable, and easy to maintain or extend.
+ BMI & Healthy Routine Assistant helps users quickly calculate their BMI and get general data, educational tips on nutrition, daily routines, and what BMI actually means. The project is organized into separate Python modules, making the code user friendly , readable, and easy to maintain or extend.
 
 ->Note:
-This is not a medical tool — it's an educational project that demonstrates practical use of Python fundamentals like functions, modules, input validation, conditionals, and loops.
+This is not a dedicated  medical tool — it is an educational project that shows practical use of Python fundamentals like functions, modules, input validation, conditionals, and loops.
 
 ->Features
 1.Calculate BMI
@@ -23,9 +23,9 @@ This is not a medical tool — it's an educational project that demonstrates pra
 13.Clarifies that BMI is a general screening tool, not a full health assessment.
 
 ->Technologies / Tools Used
-Python 3
-Jupyter Notebook (for testing/demo)
-Git & GitHub (version control)
+1.Python 3
+2.Jupyter Notebook (for testing/demo)
+3.Git & GitHub (version control)
 
 ->Project Structure
 ├──> main.py           #Main menu and program flow
