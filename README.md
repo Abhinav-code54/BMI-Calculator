@@ -7,6 +7,11 @@ A beginner-friendly Python project that calculates Body Mass Index (BMI) and pro
 ->Note:
 This is not a dedicated  medical tool — it is an educational project that shows practical use of Python fundamentals like functions, modules, input validation, conditionals, and loops.
 
+->Requirements
+- Python 3.x
+- Jupyter Notebook (optional, only for testing)
+No external Python packages or libraries are required.
+
 ->Features
 1.Calculate BMI
 2.Takes weight (kg) and height (cm) as input
